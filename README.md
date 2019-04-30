@@ -2,7 +2,7 @@
 tutorial software carpentry
 
 ## Introduction
-the weather is nice
+the weather is nice but science I am a PhD student, I can´t enjoy it
 
 ## Results
 heat on the skin in sun was measured
