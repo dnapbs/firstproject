@@ -14,4 +14,4 @@ melanoma are a realisitc thread and physicians should be consultated frequently
 image of malignancie from my skin
 
 ## Author
-great guy and others
+great guy and other idiots
